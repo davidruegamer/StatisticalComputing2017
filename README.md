@@ -7,3 +7,6 @@ Files:
 * Tutorial_Paper: Preprint of tutorial paper on FDboost
 * Lab: Sheet with exercises for the hands-on-session
 * Lab_Solutions: Solutions for exercises
+
+
+Shortened url: https://tinyurl.com/FDboost
