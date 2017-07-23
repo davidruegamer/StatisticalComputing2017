@@ -9,4 +9,4 @@ Files:
 * Lab_Solutions: Solutions for exercises
 
 
-Shortened url: https://tinyurl.com/FDboost
+Shortened url for this repo: https://tinyurl.com/FDboost
